@@ -1,6 +1,8 @@
 # Numerical-Analysis-PDE-ODE
 
-This repository intends to solve PDE & ODE with numerical analysis, which includes but not limits finite element methods, finite differential methods and finite volume methods. 
+This repository intends to solve PDE & ODE with numerical analysis, which mianly now focuses on Runge-Kutta method. Later, more numerical method would be introducted such as finite element method.   
+
+[Formulation & Document](https://github.com/cunyizju/Numerical-Analysis-PDE-ODE/doc/equations.docx.git)
 
 [Runge-Kutta-ODE-MATLAB](https://github.com/cunyizju/Runge-Kutta-ODE-MATLAB)  
 
